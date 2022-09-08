@@ -32,7 +32,7 @@
 <br>
 [Калугина Екатерина Сергеевна ?]()
 <br>
-[Капустян Ева Сергеевна *](https://github.com/kaevka)
+[Капустян Ева Сергеевна ](https://github.com/kaevka)
 <br>
 [Кулибаба Михаил Александрович](https://github.com/elegantcookie/rcir)
 <br>
@@ -42,7 +42,7 @@
 <br>
 [Мартыненко Елизавета Юрьевна ?]()
 <br>
-[Могилевский Никита Владиславович *](https://github.com/Marucanash/RKCHIR)
+[Могилевский Никита Владиславович ](https://github.com/Marucanash/RKCHIR)
 <br>
 [Орлов Денис Константинович ?]()
 <br>
