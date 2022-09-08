@@ -34,7 +34,7 @@
 <br>
 [Калугина Екатерина Сергеевна ?]()
 <br>
-[Капустян Ева Сергеевна *](https://github.com/kaevka)
+[Капустян Ева Сергеевна](https://github.com/kaevka/RKCHIR-1)
 <br>
 [Кулибаба Михаил Александрович](https://github.com/elegantcookie/rcir)
 <br>
