@@ -66,6 +66,8 @@
 > `?` - Информации по студенту нету :c
 
 ## Как делать правки в своем репозитории?
+[обучалка по гиту](https://learngitbranching.js.org/?locale=ru_RU)
+
 [как делать коммиты](https://www.youtube.com/watch?v=DMQA0BhVDZk)
 
 [как делать пуш](https://www.youtube.com/watch?v=6N6JFynR0gM)
