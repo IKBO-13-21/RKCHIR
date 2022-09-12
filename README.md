@@ -24,7 +24,7 @@
 <br>
 [Дружченко Николай Сергеевич ?]()
 <br>
-[Емельянов Матвей Максимович ?](https://github.com/ccssccsscc/sait)
+[Емельянов Матвей Максимович](https://github.com/ccssccsscc/sait)
 <br>
 [Жданов Игорь Денисович](https://github.com/pworty/IKBO-13-21)
 <br>
