@@ -14,7 +14,7 @@
 <br>
 [Белоусов Иван Сергеевич *](https://github.com/ivanbel6)
 <br>
-[Буряков Артём Иванович ?]()
+[Буряков Артём Иванович](https://github.com/ARTEM-KRUUT/RKCHIR_p)
 <br>
 [Володин Александр Юрьевич](https://github.com/alexandrvolodin/mireavolodin)
 <br>
