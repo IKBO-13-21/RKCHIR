@@ -36,6 +36,8 @@
 <br>
 [Капустян Ева Сергеевна](https://github.com/kaevka/RKCHIR-1)
 <br>
+[Корнеев Александр Михайлович](https://github.com/A1exanderKorn/RK4IR_pr1-13_Korneev)
+<br>
 [Кулибаба Михаил Александрович](https://github.com/elegantcookie/rcir)
 <br>
 [Лобов Александр Евгеньевич ?]()
