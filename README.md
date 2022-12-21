@@ -12,7 +12,7 @@
 <br>
 [Бабоха Григорий Вячеславович](https://github.com/grihezz/RKCIIR)
 <br>
-[Белоусов Иван Сергеевич *](https://github.com/ivanbel6)
+[Белоусов Иван Сергеевич](https://github.com/ivanbel6/-_-_--13-21_-)
 <br>
 [Буряков Артём Иванович](https://github.com/ARTEM-KRUUT/RKCHIR_p)
 <br>
