@@ -20,7 +20,7 @@
 <br>
 [Воронцов Иван Максимович](https://github.com/iVan10007/RKCHIR)
 <br>
-[Дашацыренов Лев Владиславович ?]()
+[Дашацыренов Лев Владиславович](https://github.com/levdash/rkchir)
 <br>
 [Дружченко Николай Сергеевич](https://github.com/nsd6803/ConsolePedia)
 <br>
