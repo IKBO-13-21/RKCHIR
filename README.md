@@ -56,7 +56,7 @@
 <br>
 [Сивов Андрей Александрович](https://github.com/Mirfius/RKCHIR)
 <br>
-[Сидельникова Анастасия Павловна ?]()
+[Сидельникова Анастасия Павловна](https://github.com/akneshoot/RKCHIR)
 <br>
 [Субботин Дмитрий Дмитриевич](https://github.com/Tomeshiro/FrontEndPracticals)
 <br>
