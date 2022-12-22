@@ -40,7 +40,7 @@
 <br>
 [Кулибаба Михаил Александрович](https://github.com/elegantcookie/rcir)
 <br>
-[Лобов Александр Евгеньевич ?]()
+[Лобов Александр Евгеньевич](https://github.com/SashaPolJack/Projects_RKCHIR)
 <br>
 [Максименко Виктор Александрович ?]()
 <br>
