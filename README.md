@@ -16,7 +16,7 @@
 <br>
 [Буряков Артём Иванович](https://github.com/ARTEM-KRUUT/RKCHIR_p)
 <br>
-[Володин Александр Юрьевич](https://github.com/alexandrvolodin/mireavolodin)
+[Володин Александр Юрьевич](https://github.com/alexandrvolodin/PractSite)
 <br>
 [Воронцов Иван Максимович](https://github.com/iVan10007/RKCHIR)
 <br>
