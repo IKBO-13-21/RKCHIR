@@ -8,7 +8,7 @@
 
 [Агафонов Андрей Евгеньевич](https://github.com/Andrew1481432/DCPIR)
 <br>
-[Андрушкевич Максим Валерьевич ?]()
+[Андрушкевич Максим Валерьевич](https://github.com/MaksimLearn/Web_Andrushkevic_3_sem)
 <br>
 [Бабоха Григорий Вячеславович](https://github.com/grihezz/RKCIIR)
 <br>
