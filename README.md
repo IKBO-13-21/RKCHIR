@@ -52,7 +52,7 @@
 <br>
 [Руднева Дарья Михайловна *](https://github.com/tomorrou)
 <br>
-[Селиверстов Георгий Дмитриевич ?]()
+[Селиверстов Георгий Дмитриевич](https://github.com/EgoriusSelik/FrontendPracts)
 <br>
 [Сивов Андрей Александрович](https://github.com/Mirfius/RKCHIR)
 <br>
