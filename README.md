@@ -48,7 +48,7 @@
 <br>
 [Могилевский Никита Владиславович](https://github.com/Marucanash/RKCHIR)
 <br>
-[Орлов Денис Константинович ?]()
+[Орлов Денис Константинович](https://github.com/DenOrLow/RKCHIR_Pract)
 <br>
 [Руднева Дарья Михайловна *](https://github.com/tomorrou)
 <br>
