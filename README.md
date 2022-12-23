@@ -32,7 +32,7 @@
 <br>
 [Ивлиев Роман Андреевич ?]()
 <br>
-[Калугина Екатерина Сергеевна ?]()
+[Калугина Екатерина Сергеевна](https://github.com/tiklkun/Front-end-practice-1-13-Kalugina)
 <br>
 [Капустян Ева Сергеевна](https://github.com/kaevka/RKCHIR-1)
 <br>
