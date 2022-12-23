@@ -34,7 +34,7 @@
 <br>
 [Калугина Екатерина Сергеевна](https://github.com/tiklkun/Front-end-practice-1-13-Kalugina)
 <br>
-[Капустян Ева Сергеевна](https://github.com/kaevka/RKCHIR-1)
+[Капустян Ева Сергеевна](https://github.com/kaevka/RKCHIR)
 <br>
 [Корнеев Александр Михайлович](https://github.com/A1exanderKorn/RK4IR_pr1-13_Korneev)
 <br>
