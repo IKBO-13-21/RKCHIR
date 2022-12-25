@@ -42,7 +42,7 @@
 <br>
 [Лобов Александр Евгеньевич](https://github.com/SashaPolJack/Projects_RKCHIR)
 <br>
-[Максименко Виктор Александрович ?]()
+[Максименко Виктор Александрович](https://github.com/InviZ17/RKCHIR)
 <br>
 [Мартыненко Елизавета Юрьевна](https://github.com/Lizavetka06/martinka)
 <br>
