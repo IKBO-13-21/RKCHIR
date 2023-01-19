@@ -60,7 +60,7 @@
 <br>
 [Субботин Дмитрий Дмитриевич](https://github.com/Tomeshiro/FrontEndPracticals)
 <br>
-[Сюмакова Наталья Сергеевна ?]()
+[Сюмакова Наталья Сергеевна](https://github.com/kotokk/RKCHIR_prac)
 <br>
 [Тараканова Евгения Олеговна](https://github.com/eugenianova/client-side-development)
 <br>
