@@ -50,7 +50,7 @@
 <br>
 [Орлов Денис Константинович](https://github.com/DenOrLow/RKCHIR_Pract)
 <br>
-[Руднева Дарья Михайловна *](https://github.com/tomorrou)
+[Руднева Дарья Михайловна](https://github.com/tomorrou/RKCHIRpr)
 <br>
 [Селиверстов Георгий Дмитриевич](https://github.com/EgoriusSelik/FrontendPracts)
 <br>
